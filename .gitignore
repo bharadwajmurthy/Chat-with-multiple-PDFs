@@ -1,0 +1,51 @@
+# Python Virtual Environment
+/venv/
+/env/
+/virtualenv/
+
+# Dependencies
+/requirements.txt
+/requirements/*.txt
+/pip-lock.txt
+
+# Data
+/data/
+
+# Model Artifacts
+/models/
+
+# Logs and Temporary Files
+/logs/
+/tmp/
+
+# IDE/Editor Specific Files
+.vscode/
+.idea/
+*.iml
+
+# Compiled Files
+*.pyc
+*.pyo
+__pycache__/
+
+# Configuration Files
+.env
+
+# Sensitive or Private Information
+/config.py
+/secrets.json
+
+# Generated Files
+/generated/
+
+# Ignore Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python Cache Files
+__pycache__/
+
+# Ignore Compiled Files
+*.pyc
+
+# Ignore Logs
+/logs/
