@@ -3,10 +3,6 @@
 /env/
 /virtualenv/
 
-# Dependencies
-/requirements.txt
-/requirements/*.txt
-/pip-lock.txt
 
 # Data
 /data/
